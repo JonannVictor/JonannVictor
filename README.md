@@ -32,6 +32,7 @@
 ###
 <br/>
 <div align="center">
+   <h3> Social Media </h3>
   <a href="https://www.linkedin.com/in/jonann-victor-moreira-cardoso-554137285/?trk=opento_sprofile_goalscard" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
