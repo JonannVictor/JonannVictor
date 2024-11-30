@@ -1,9 +1,11 @@
  <h2>Olá eu sou o Jonann!!!<h2/>
-
+<div align="center">
 -  Programador Front End
 -  Estudo Python
 -  Sou colorado 
 -  Amo a Cristo.
+</div>
+
 <br/>
 
 <div align="center">
