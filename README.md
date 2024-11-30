@@ -1,11 +1,9 @@
-<div aling="center">
- <h2>Olá eu sou o Jonann!!!</h2>
+<h2>Olá eu sou o Jonann!!!</h2>
 
 -  Programador Front End
 -  Estudo Python
 -  Sou colorado 
 -  Amo a Cristo.
-</div>
 
 <br/>
 
