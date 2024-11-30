@@ -2,7 +2,7 @@
 
 <br/>
 
->-  Programador Front End
+-  Programador Front End
 -  Estudo Python
 -  Sou colorado 
 -  Amo a Cristo.
