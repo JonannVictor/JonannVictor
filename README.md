@@ -1,6 +1,4 @@
- <h1 aling="left">Olá eu sou o Jonann!!!<h1/>
-
-
+ <h2 aling="left">Olá eu sou o Jonann!!!<h2/>
 
 -  Programador Front End
 -  Estudo Python
