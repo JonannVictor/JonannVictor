@@ -1,12 +1,12 @@
  <h1 aling="left">Olá eu sou o Jonann!!!<h1/>
 
-<br/>
+
 
 -  Programador Front End
 -  Estudo Python
 -  Sou colorado 
 -  Amo a Cristo.
-
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonannVictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=maroongold&locale=pt-br&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
