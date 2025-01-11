@@ -1,7 +1,7 @@
 <h2>Olá eu sou o Jonann!!!</h2>
 
 -  Programador Front End
--  Estudo Python
+-  Aprendendo Python
 -  Sou colorado 
 -  Amo a Cristo.
 
