@@ -3,8 +3,6 @@
 -  Programador Front End
 -  Cursando ADS 
 -  Aprendendo Python
--  Sou colorado 
--  Cristão 
 
 <br/>
 
