@@ -3,7 +3,7 @@
 -  Programador Front End
 -  Aprendendo Python
 -  Sou colorado 
--  Amo a Cristo.
+-  Cristão 
 
 <br/>
 
