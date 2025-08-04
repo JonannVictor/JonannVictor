@@ -1,8 +1,7 @@
 <h2>Olá eu sou o Jonann!!!</h2>
 
--  Programador Front End
+-  Desenvolvedor Front End
 -  Cursando ADS 
--  Aprendendo Python
 
 <br/>
 
