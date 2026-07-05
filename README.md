@@ -1,54 +1,82 @@
-<h2>Olá eu sou o Jonann!!!</h2>
+<h1 align="center">Olá, eu sou o Jonann Cardoso 👋</h1>
 
--  Desenvolvedor Front End
--  Cursando ADS 
+<h3 align="center">Full Stack Developer • Founder & CEO @Agência Hineni</h3>
+
+<p align="center">
+Desenvolvendo aplicações, sistemas e soluções digitais focadas em tecnologia, automação e inteligência artificial.
+</p>
+
+<br/>
+
+## 👨‍💻 Sobre mim
+
+* 🚀 Desenvolvedor Full Stack
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas
+* 💼 Founder & CEO da Hineni
+* 🤖 Desenvolvendo soluções com Inteligência Artificial e automação
+* ⚙️ Experiência com aplicações web, APIs e sistemas
+* 🧠 Sempre buscando transformar ideias em produtos digitais
+
+<br/>
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JonannVictor&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonannVictor&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
+
+</div>
+
+<br/>
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jonann-victor-moreira-cardoso-554137285/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jonann._.tkd/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://hineni.agency">
+<img src="https://img.shields.io/badge/Hineni-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonannVictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=maroongold&locale=pt-br&hide_border=true&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonannVictor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=maroongold&hide_border=true" height="150" alt="languages graph"  />
+
+### 💡 Transformando ideias em produtos digitais.
+
 </div>
-
-###
-<br/>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-
-###
-<br/>
-<div align="center">
-   <h3 aling="center"> Social Media </h3>
-  <a href="https://www.linkedin.com/in/jonann-victor-moreira-cardoso-554137285/?trk=opento_sprofile_goalscard" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jonann._.tkd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=5553999340232&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JonannVictor/JonannVictor/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JonannVictor/count.svg?"  />
-</div>
-
-###
