@@ -47,19 +47,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=JonannVictor&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  >
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonannVictor&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
-    alt="Linguagens mais usadas"
-  >
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JonannVictor&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonannVictor&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
 </div>
 
 <br>
