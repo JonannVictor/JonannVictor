@@ -1,26 +1,26 @@
-<h1 align="center">Olá, eu sou o Jonann Cardoso 👋</h1>
+<h1 align="center">Hello, I am Jonann Cardoso 👋</h1>
 
 <h3 align="center">Full Stack Developer • Founder & CEO @ Agência Hineni</h3>
 
 <p align="center">
-  Desenvolvendo aplicações, sistemas e soluções digitais focadas em tecnologia,
-  automação e inteligência artificial.
+  Developing applications, systems, and digital solutions focused on 
+  technology, automation, and artificial intelligence.
 </p>
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-- 🚀 Desenvolvedor Full Stack
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💼 Founder & CEO da Hineni
-- 🤖 Desenvolvendo soluções com Inteligência Artificial e automação
-- ⚙️ Experiência com aplicações web, APIs e sistemas
-- 🧠 Sempre buscando transformar ideias em produtos digitais
+- 🚀 Developer Full Stack
+- 🎓 Currently studying Systems Analysis and Development
+- 💼 Founder & CEO of Hineni
+- 🤖 Developing solutions with Artificial Intelligence and automation
+- ⚙️ Experience with web applications, APIs, and systems
+- 🧠 Always seeking to transform ideas into digital products.
 
 <br>
 
-## 🛠️ Tecnologias
+## 🛠️ technologies
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br>
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <div align="center">
 
@@ -66,6 +66,8 @@
 
 <div align="center">
 
-### 💡 Transformando ideias em produtos digitais.
+### 💡 Transforming ideas into digital products.
+
+
 
 </div>
