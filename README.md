@@ -12,7 +12,7 @@
 ## 👨‍💻 About me
 
 - 🚀 Developer Full Stack
-- 🎓 Currently studying Systems Analysis and Development
+- 🎓 Studying Systems Analysis and Development
 - 💼 Founder & CEO of Hineni
 - 🤖 Developing solutions with Artificial Intelligence and automation
 - ⚙️ Experience with web applications, APIs, and systems
